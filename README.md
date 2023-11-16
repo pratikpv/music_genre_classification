@@ -1,7 +1,8 @@
 # Introduction
 This Python Jupyter Notebook aims to perform classification of Music Genre.
 
-We use GTZAN genre collection dataset, which can be downloaded from http://marsyasweb.appspot.com/download/data_sets.
+We use GTZAN genre collection dataset, which can be downloaded from https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
 
 This dataset consists of 10 genres, i.e., blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock.
 Each genre consist of 100 music clips, each clip is 30 seconds long.
